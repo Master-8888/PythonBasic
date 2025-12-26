@@ -16,3 +16,4 @@ print(f"Середнє трьох чисел {number}, {number}, {number} дор
 # 3. “Перетворення хвилин у години”
 
 number_of_minutes = int(input("Введите число №1: "))
+
