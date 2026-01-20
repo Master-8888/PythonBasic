@@ -60,4 +60,3 @@ def common_elements():
     set_5 = set(list_5)
 
     return set_3 & set_5
-
